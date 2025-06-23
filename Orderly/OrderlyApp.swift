@@ -1,17 +1,11 @@
-//
-//  OrderlyApp.swift
-//  Orderly
-//
-//  Created by julian avellaneda on 6/22/25.
-//
-
+// OrderlyApp.swift
 import SwiftUI
 
 @main
 struct OrderlyApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
         }
     }
 }
